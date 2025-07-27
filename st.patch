@@ -19,8 +19,8 @@ index 2cd740a..5dce029 100644
   */
 -static double minlatency = 2;
 -static double maxlatency = 33;
-+static double minlatency = 2;
-+static double maxlatency = 12;
++static double minlatency = 1;
++static double maxlatency = 10;
  
  /*
   * blinking timeout (set to 0 to disable blinking) for the terminal blinking
